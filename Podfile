@@ -1,0 +1,23 @@
+target 'Bameh' do
+	use_frameworks!
+	pod 'Alamofire'
+	pod 'HydraAsync'
+	pod 'SwiftyJSON'
+	pod 'Reflection'
+	pod 'NVActivityIndicatorView'
+	pod 'SDWebImage', '~> 4.0'
+	pod 'FSPagerView'
+	pod 'Fabric'
+	pod 'Crashlytics'
+    pod 'Firebase/Core'
+    pod 'Firebase/Messaging'
+	pod 'BRYXBanner'
+	pod 'UICircularProgressRing'
+    	pod 'Reachability'
+	pod 'MZDownloadManager', '~> 3.3'
+    	pod 'QRCodeReader.swift', '~> 8.2.0'
+    	pod 'DeckTransition', '~> 2.0'
+    	pod 'RealmSwift'
+    	pod 'RxSwift',    '~> 4.0'
+    	pod 'RxCocoa',    '~> 4.0'
+end

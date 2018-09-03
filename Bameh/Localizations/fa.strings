@@ -1,0 +1,30 @@
+/* 
+ fa.strings
+ Bameh
+ 
+ Created by Morteza Ezzabady on 7/15/18.
+ Copyright © 2018 Morteza Ezzabady. All rights reserved.
+*/
+
+// Errors
+"BM.Errors.Connection" = "خطایی در اتصال به سرور رخ داد! اتصال خود به اینترنت را چک کرده و مجددا تلاش کنید.";
+"BM.Errors.Connection.Title" = "خطا";
+
+// Navigation
+"BM.Navigation.Back" = "بازگشت";
+"BM.Navigation.Next" = "بعدی";
+
+// Intro
+"BM.Intro.Close" = "شروع";
+"BM.Intro.Next" = "بعدی";
+
+// Tabs
+"BM.Tab.Search.Title" = "جستجو";
+"BM.Tab.Search.info" = "جستجو در بین اطلاعات افراد, موزه ها و …";
+"BM.Tab.Map.Title" = "جستجوی نقشه";
+"BM.Tab.QR.Title" = "QR Scanner";
+"BM.Tab.Today.Title" = "روزانه";
+"BM.Tab.Profile.Title" = "حساب کاربری";
+
+"BM.Search.Cancel" = "لغو";
+
